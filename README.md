@@ -28,8 +28,7 @@ sudo apt-get install gcc-multilib
 sudo apt-get remove gcc g++
 ```
 
-如果仍有问题，可以联系林瞻涵助教获取服务器登陆信息，在服务器上完成本实验。
-
+如果仍有问题，可以联系林瞻涵助教获取
 如果你想获得 VSCode 的最佳代码提示体验，请指定 `cStandard` 为 `gnu99`:
 
 ```json
